@@ -9,3 +9,4 @@ public enum ContactType {
     PHONE,
     EMAIL
 }
+
